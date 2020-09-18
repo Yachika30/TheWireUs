@@ -1,4 +1,4 @@
-
+//cpp
 #include<iostream> 
 using namespace std; 
 void func(int  x[4][4],int i, int j){
